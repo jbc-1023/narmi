@@ -1,4 +1,4 @@
-<div style="font-size: 2em;font-weight:bold">Mildred is retiring!</div>
+<h1>Mildred is retiring!</h1>
 <img src="assets/bw.jpg" style="width:20vw;border-radius:2em"/>
 <div>After 60 years of service.</a>
 <div>Please sign her farewell card <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">here</a>
