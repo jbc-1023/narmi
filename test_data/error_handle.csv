@@ -5,9 +5,9 @@ zero year, 0, R, 2:14
 not number year, not a number, R, 2:14
 year invalid, 99999999999999999999999999999, R, 2:14
 year special, !@#$%^&*()_+{}-=[];'./:"<>?, R, 2:14
+rating empty, !@#$%^&*()_+{}-=[];'./:"<>?, , 2:14
 rating special, 1999, !@#$%^&*()_+{}-=[];'./:"<>?, 2:14
 invalid run time, 1999, R, not-run-time
 invalid run time, 1999, R, 0:00
 這不是英語, 1998, R, 2:14
 empty run time, 1999, R,
-
